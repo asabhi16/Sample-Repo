@@ -1,0 +1,2 @@
+a = 'Abhi'
+print(a)
